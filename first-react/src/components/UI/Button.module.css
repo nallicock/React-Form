@@ -1,0 +1,13 @@
+.button {
+  transition: 0.5s;
+  background-color: purple;
+  border: none;
+  padding: 10px;
+  color: white;
+  border-radius: 10px;
+}
+
+.button:hover {
+  background-color: rgb(172, 34, 172);
+  transition: 0.5s;
+}
